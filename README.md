@@ -2,14 +2,12 @@
 
 This is a project for a modern and responsive website for a fictional cafe called "Kifir". The site was built from scratch using pure web technologies (HTML, CSS, JavaScript) and showcases a homepage, menu, and contact page.
 
-![Homepage Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(Hint: Take a screenshot of your site and replace this link)*
-
+![Homepage Screenshot](![{F9678AA3-2186-4A8F-B824-0772DE199A56}](https://github.com/user-attachments/assets/a93db46b-2d0f-4ffb-aeba-8e14ceb583b9)
+)
 ---
 
 ## ✨ Key Features
 
-- **Responsive Design**: Displays correctly on both desktop and mobile devices.
 - **Interactive Slider**: The homepage features a slider implemented with **Swiper.js**.
 - **Structured Menu**: A separate menu page divided into categories: main courses, desserts, and drinks.
 - **Contact Form with Validation**: The contact page includes a form that validates the phone number, allowing only digits and blocking numbers from the aggressor country.
@@ -21,7 +19,7 @@ This is a project for a modern and responsive website for a fictional cafe calle
 
 The design and overall concept were inspired by an excellent template from the Figma Community.
 
-- **Inspiration Source**: [Cafe Template by Junaid on Figma](https://www.figma.com/community/file/1034381978930508378/cafe-template)
+- **Inspiration Source**: [Cafe Template by gimnycraft on Figma](https://www.figma.com/community/file/1034381978930508378/cafe-template)
 
 ---
 
