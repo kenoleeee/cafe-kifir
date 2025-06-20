@@ -2,8 +2,9 @@
 
 This is a project for a modern and responsive website for a fictional cafe called "Kifir". The site was built from scratch using pure web technologies (HTML, CSS, JavaScript) and showcases a homepage, menu, and contact page.
 
-![Homepage Screenshot](![{F9678AA3-2186-4A8F-B824-0772DE199A56}](https://github.com/user-attachments/assets/a93db46b-2d0f-4ffb-aeba-8e14ceb583b9)
-)
+![{A5C55AD9-7793-4404-83A1-6849462FFBA8}](https://github.com/user-attachments/assets/1cd8e890-71aa-45ff-898c-a19393aea785)
+
+
 ---
 
 ## ✨ Key Features
